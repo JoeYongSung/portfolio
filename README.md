@@ -1,4 +1,4 @@
-# 조용 포트폴리오
+# 조용성 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
 2
 </br>
@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: tmxkflqj2233@naver.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/JoeYongSung
 
 </br>
 
