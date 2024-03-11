@@ -23,28 +23,18 @@
 >기술 스택:  
 >Java 8 / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
 >  
->[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS) 참고
+>[태양열을 이용한 빌딩 관리 시스템 제작](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS) 참고
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [ IoT기반 오탁수 저감장치 원격제어](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine)
+> IoT기반 오탁수 저감장치 원격제어  (팀 프로젝트)  
+>개발 기간: 2024.2.26 ~ 2024.03.12  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[건설현장같은 오폐수가 나오는 현장의 오염수 저감장치 개발](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine) 참고
 
 ---
-
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
