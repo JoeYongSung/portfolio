@@ -1,6 +1,6 @@
 # 조용성 포트폴리오
->해야 할 일이 있다
-2
+>You've got a job to do(해야 할 일이 있다)
+
 </br>
 
 ## :pushpin: Intro
@@ -16,15 +16,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
+### 1. [지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR)](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
+>지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR) (팀 프로젝트)  
 >개발 기간: 2024.01.03 ~ 2024.01.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
 >  
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS) 참고
 
 ---
 
