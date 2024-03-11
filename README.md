@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요 열심히 개발중인 사람입니다
 
 </br>
 
@@ -32,9 +32,7 @@
 >개발 기간: 2024.2.26 ~ 2024.03.12  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
+>Java / Kotlin / HTML / CSS / Java Script / Android / RaspberryPi / Spring / Maria DB
 >[건설현장같은 오폐수가 나오는 현장의 오염수 저감장치 개발](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine) 참고
 
 ---
