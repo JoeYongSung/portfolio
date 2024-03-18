@@ -19,33 +19,33 @@
 
 ## :pushpin: Projects
 ### 1. [지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR)](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
->지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR) (팀 프로젝트)  
->개발 기간: 2024.01.03 ~ 2024.01.15  
->
->간단 설명:
->아두이노를 이용한 시뮬레이션 모델 제작 및 코드 작성
->아두이노와 웹 서버 간의 통신 구현
->테스트 후 수정 반복
->
->기술 스택:  
->Java 8 / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
->  
->[태양열을 이용한 빌딩 관리 시스템 제작](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS) 참고
+지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR) (팀 프로젝트)  
+개발 기간: 2024.01.03 ~ 2024.01.15  
+
+간단 설명:
+아두이노를 이용한 시뮬레이션 모델 제작 및 코드 작성
+아두이노와 웹 서버 간의 통신 구현
+테스트 후 수정 반복
+
+기술 스택:  
+Java 8 / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
+  
+[태양열을 이용한 빌딩 관리 시스템 제작](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS) 참고
 
 ---
 
 ### 2. [ IoT기반 오탁수 저감장치 원격제어] (팀명: 아주베리파인)(https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine)
-> IoT기반 오탁수 저감장치 원격제어  (팀 프로젝트)  
->개발 기간: 2024.2.26 ~ 2024.03.12
->
->간단 설명:
->라즈베리파이를 이용한 시뮬레이션 모델 제작 및 코드 작성
->라즈베리파이와 리모트 서버를 경유하는 웹 서버 간의 통신 구현
->LoRa무선 통신을 이용해서 단말과 리모트 서버 통신 구현
->테스트 후 수정 반복
->  
->기술 스택:  
->Java / Kotlin / HTML / CSS / Java Script / Android / RaspberryPi / Spring / Maria DB
->[건설현장같은 오폐수가 나오는 현장의 오염수 저감장치 개발](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine) 참고
+IoT기반 오탁수 저감장치 원격제어  (팀 프로젝트)  
+개발 기간: 2024.2.26 ~ 2024.03.12
+
+간단 설명:
+라즈베리파이를 이용한 시뮬레이션 모델 제작 및 코드 작성
+라즈베리파이와 리모트 서버를 경유하는 웹 서버 간의 통신 구현
+LoRa무선 통신을 이용해서 단말과 리모트 서버 통신 구현
+테스트 후 수정 반복
+  
+기술 스택:  
+Java / Kotlin / HTML / CSS / Java Script / Android / RaspberryPi / Spring / Maria DB
+[건설현장같은 오폐수가 나오는 현장의 오염수 저감장치 개발](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine) 참고
 
 ---
