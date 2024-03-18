@@ -18,7 +18,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR)](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
+### 1. [지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR)]
 지능형 IoT를 이용한 빌딩 에너지 관리 시스템 (팀명: SOLAR) (팀 프로젝트)  
 개발 기간: 2024.01.03 ~ 2024.01.15  
 
@@ -34,7 +34,7 @@ Java / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
 
 ---
 
-### 2. [ IoT기반 오탁수 저감장치 원격제어] (팀명: 아주베리파인)(https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine)
+### 2. [ IoT기반 오탁수 저감장치 원격제어] (팀명: 아주베리파인)
 IoT기반 오탁수 저감장치 원격제어  (팀 프로젝트)  
 개발 기간: 2024.2.26 ~ 2024.03.12
 
