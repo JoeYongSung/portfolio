@@ -5,12 +5,14 @@
 
 ## :pushpin: Intro
 안녕하세요 열심히 개발중인 사람입니다
+회로나 기계 제품을 만지는데 흥미가 있으며
+임베디드에 관심이 있어서 관련 기술을 배우고 있습니다
+
 
 </br>
 
 ## :pushpin: Contact
 - 이메일: tmxkflqj2233@naver.com
-- 블로그: 
 - 깃헙: https://github.com/JoeYongSung
 
 </br>
