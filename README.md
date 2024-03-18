@@ -1,5 +1,5 @@
 # 조용성 포트폴리오
-<font size=5>You've got a job to do(해야 할 일이 있다)</font>
+<font size=12pt>You've got a job to do(해야 할 일이 있다)</font>
 
 </br>
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 2. [ IoT기반 오탁수 저감장치 원격제어](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine)
+### 2. [ IoT기반 오탁수 저감장치 원격제어] (팀명: 아주베리파인)(https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine)
 > IoT기반 오탁수 저감장치 원격제어  (팀 프로젝트)  
 >개발 기간: 2024.2.26 ~ 2024.03.12  
 >  
