@@ -28,7 +28,7 @@
 테스트 후 수정 반복
 
 기술 스택:  
-Java 8 / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
+Java / Spring Boot / Arduino / HTML / Java Script / BootStrap / Flask / Python
   
 [태양열을 이용한 빌딩 관리 시스템 제작](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS) 참고
 
@@ -46,6 +46,7 @@ LoRa무선 통신을 이용해서 단말과 리모트 서버 통신 구현,
   
 기술 스택:  
 Java / Kotlin / HTML / CSS / Java Script / Android / RaspberryPi / Spring / Maria DB
+
 [건설현장같은 오폐수가 나오는 현장의 오염수 저감장치 개발](https://github.com/2023-SMHRD-KDT-IOT-4/AzuVeryFine) 참고
 
 ---
